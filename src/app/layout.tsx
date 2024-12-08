@@ -25,6 +25,7 @@ export default function RootLayout({
         {/* <Slidebar /> */}
         {/* <main className="grid w-full h-full pl-[300px]">
           <Header />
+          
         </main> */}
         {children}
       </body>
